@@ -416,6 +416,29 @@ body     { pointer-events: none; }
     cursor: pointer;
 }
 
+/* Styles added by Arjun */
+#impress h1{
+    font-size:50px;
+}
+#impress h2{
+    font-size:40px;
+}
+
+#impress p{
+    font-size:25px;
+}
+
+#impress ul{
+    list-style: square;
+    margin-left:30px;
+}
+
+#impress li{
+    font-size:25px;
+}
+
+/*End of styles added by Arjun */
+
 /*
  * SLIDE STEP STYLES
  *
